@@ -15,7 +15,7 @@ This repository implements a Bayesian Optimization (BO) algorithm with Gaussian 
 
 - **Objective GP Posterior with True Constraints**
 
-  [Visualized Outputs][extendedEval.png]
+  ![Visualized Outputs][extendedEval.png]
 ## Prerequisites
 
 Install the required dependencies:
